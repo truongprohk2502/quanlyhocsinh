@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+    color: green;
+}
+
+table, td {
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header_td {
+    text-align: center;
+    font-weight: bold;
+}
+
+.center_td {
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    padding: 50px;
+}
